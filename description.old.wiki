@@ -1,0 +1,77 @@
+=Flora_ssh-d=
+
+With this Applescript you can connect your SSH -D server automatically.
+
+TO CROSS THE GFW and launch your internet application.
+
+With iTunes Voice Over Added, just like iPod shuffle!
+
+#Version 2.99 Release
+
+= Flora_ssh-D Version 2.99 闪亮登场！ =
+
+http://t.leaskh.com/2kf4
+
+http://t.leaskh.com/2kf9
+
+http://t.leaskh.com/2keW
+
+
+Blog Address:
+http://honeonet.spaces.live.com/blog/cns!15BAC1A170471DB!15186.entry
+
+= Details =
+
+== Flora_ssh-D是什么？==
+
+# Flora_ssh-D是一个Applescript（以app形式封装），在Mac OS上开发和运行（有计划推出针对Windows的版本）；
+
+# Flora_ssh-D是一个iTunes VoiveOver程序，能够像iPod shuffle那样自动报读当前正在播放的歌名和艺术家；
+
+# Flora_ssh-D能够自动连接ssh -D服务器，自动创建Socks代理服务器，高速访问某些如Twitter、Facebook等国外优秀站点，并在连接断开的时候自动重连，配合ssh -D服务器使用，让Wall从此透明；
+
+# Flora_ssh-D并不包含ssh -D服务器信息，如果你要使用第3条的功能，你需要自己购买ssh -D服务器，做有责任感的网民，网上行为务必符合国家法律法规；
+
+# Flora_ssh-D能自动更新你的Twitter状态为你正在听的歌，如：【I am listening to #Sensible by #Sun Yan-Zi in album #Leave. // Thursday, October 29, 2009 11:05:32 AM】；
+
+# Flora_ssh-D能自动记录你正在听的歌到Last.fm；
+
+# Flora_ssh-D能自动更新你DNS-O-MATIC上的动态IP地址为你的当前IP；
+
+# Flora_ssh-D能自动判断在线状态，自动为你开启和关闭某些软件；
+
+# 推荐把Flora_ssh-D设置为开机启动，只需要在开机的时候执行这一个脚本，其他的程序可以配置到脚本里面，自动根据在线状态为你自动开启和关闭；
+
+# Flora_ssh-D是开源的自由软件，并已经在Google Code上创建为开源项目：http://code.google.com/p/flora-ssh-d/
+
+
+== Version 2.99有什么新改进？==
+
+# 优化程序的性能；
+
+# 加入了天气预报；
+
+# 加入地理位置识别（地理位置识别将来会发展成自动配置Pac文件，相信大家都知道为什么要有Pac了）;
+
+# Growl的整合和写入Logs。
+
+
+== Version 2.33有什么新改进？==
+
+#全新的任务调度，大大缩短iTunes VoiceOver的时间延迟；
+
+# 全新的配置方式，现在下载程序后无需配置就能马上执行，比较适合只需要iTunes VoiceOver功能的朋友；
+
+# 优化VoiceOver功能，添加音量淡入淡出功能，听起来效果更好，和iPod shuffle上基本上没有分别了；
+
+# 完善Twitter功能，自动在Twitter上发布你正在听的歌；
+
+# 完善last.fm歌曲记录功能；
+
+# 修正ssh -D连接的bug，让ssh -D连接更加顺畅，并在退出程序的时候自动关闭ssh –D以释放内存；
+
+# 进一步减少空闲时的资源占用，让脚本更轻巧，几乎感觉不到脚本的存在；
+
+# 全新的任务管理方式，运行更快，更稳定；
+
+# 添加中文配置说明，方便英文不好的朋友使用。
